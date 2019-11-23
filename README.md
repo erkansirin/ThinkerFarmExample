@@ -1,8 +1,8 @@
 # ThinkerFarmExample
 
 ##### Table of Contents  
-[Installation](#installation)  
-[Usage](#usage)  
+[Installation](#Installation)  
+[Usage](#Usage)  
 ...snip...    
 <a name="installation"/>
 
