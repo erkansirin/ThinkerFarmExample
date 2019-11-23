@@ -3,7 +3,7 @@
 ##### Table of Contents  
 [Installation](#Installation)  
 [Usage](#Usage)  
-[Usage install And ooo](#UsageinstallAndooo) 
+[Usage install And ooo](#Usage install And ooo)    
 ...snip...    
 <a name="installation"/>
 
