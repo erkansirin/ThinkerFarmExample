@@ -345,7 +345,7 @@ sad
 f
 
 
-### Usage install And ooo . 
+### Usage install And ooo
 
 saf . 
 asf .  
