@@ -3,7 +3,7 @@
 ##### Table of Contents  
 [Installation](#Installation)  
 [Usage](#Usage)  
-[Usage install And ooo](#UsageinstallAndooo)    
+[Documents And ooo](#Documents)    
 ...snip...    
 <a name="installation"/>
 
@@ -345,7 +345,7 @@ sad
 f
 
 
-### Usage install And ooo
+### Documents And ooo
 
 saf . 
 asf .  
