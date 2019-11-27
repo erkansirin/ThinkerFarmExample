@@ -8,7 +8,8 @@ Example swift application to demonstrate capabilities of [ThinkerFarm Framework]
 
 ThinkerFarmExample is a fully functional Swift iOS Application contains demo of ThinkerFarm Framework Modules and trained model files from [ModelFarm](https://github.com/erkansirin/ModelFarm) I continuously train and share model files for TensorFlow and Caffe but if you need custom solutions contact me erkan@erkansirin.com
 
-Application also available on Apple Store 
+Application also available on Apple Store . 
+
 [![ThinkerFarm](https://github.com/erkansirin/ThinkerFarmExample/raw/master/images/applestoreicon.png)](https://apps.apple.com/us/app/thinkerfarm/id1488192528)
 
 ## Installation
